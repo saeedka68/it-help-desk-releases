@@ -1,9 +1,9 @@
 {
   "catalogVersion": "1.0.0",
   "minAppVersionCode": 1,
-  "latestAppVersionCode": 152,
-  "latestAppVersionName": "1.0.52",
-  "apkDownloadUrl": "https://github.com/saeedka68/it-help-desk-releases/releases/download/v1.0.52/IT-Toolkit-v1.0.52.apk",
+  "latestAppVersionCode": 153,
+  "latestAppVersionName": "1.0.53",
+  "apkDownloadUrl": "https://github.com/saeedka68/it-help-desk-releases/releases/download/v1.0.53/IT-Toolkit-v1.0.53.apk",
   "changelogFa": "نسخه اولیه IT Toolkit با پشتیبانی از همگام‌سازی GitHub و انتخاب محیط اجرای دستورات.",
   "categories": [],
   "commands": []
